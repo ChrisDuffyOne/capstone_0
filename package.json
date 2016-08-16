@@ -4,7 +4,8 @@
   "description": "First version of the arcade node application",
   "main": "server.js",
   "scripts": {
-    "test": "node server.js"
+    "start": "node server.js",
+    "test": "mocha"
   },
   "keywords": [
     "Capstone",
